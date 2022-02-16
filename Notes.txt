@@ -1,0 +1,15 @@
+Strat:
+- Apply the initial steps
+- Set the changes (DB, asymmetrical keys and registration route)
+
+Changes
+
+- Set DB files for users and the user mongo schema and user model
+- Set the registration route which was not set for us
+- Set the user registration script
+- Set the hash and salt functions
+- Set hash checking function in validateUser function in auth.service.ts file
+- Set private and pub keys since example only uses symmetric keys
+- Set the private and pub keys as options in the jwtModule
+
+
